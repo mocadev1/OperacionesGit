@@ -1,0 +1,25 @@
+From e9ae46322d77ce9047008c6eb6c276c0d416e40d Mon Sep 17 00:00:00 2001
+From: Carlos Omar Beltran Miguel <OmarBeltran@users.noreply.github.com>
+Date: Tue, 15 Apr 2014 16:07:03 +0100
+Subject: [PATCH] Minor README.md typo fix "usefull" > "useful".
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index f69a6ae..5760501 100644
+--- a/README.md
++++ b/README.md
+@@ -2,7 +2,7 @@ SL(1): Cure your bad habit of mistyping
+ =======================================
+ 
+ SL (Steam Locomotive) runs across your terminal when you type "sl" as
+-you meant to type "ls". It's just a joke command, and not usefull at
++you meant to type "ls". It's just a useless command, and not useful at
+ all.
+ 
+ Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
+-- 
+2.39.0
+
